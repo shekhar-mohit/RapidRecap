@@ -9,7 +9,7 @@ return(<header className="w-full flex justify-center items-center  flex-col">
     
     
 
-<button type="button" className="black_btn" onClick={()=>{window.open('')}}>GitHub</button>
+<button type="button" className="black_btn" onClick={()=>{window.open('https://github.com/shekhar-mohit/RapidRecap')}}>GitHub</button>
 
 </nav>
 <h1 className="head_text">
